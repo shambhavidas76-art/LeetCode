@@ -45,5 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shambhavidas76-art/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shambhavidas76-art/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shambhavidas76-art/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shambhavidas76-art/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
